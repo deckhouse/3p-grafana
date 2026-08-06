@@ -70,7 +70,7 @@
     "@types/lodash": "4.17.4",
     "@types/node": "20.14.2",
     "@types/react": "18.3.3",
-    "@types/react-virtualized-auto-sizer": "1.0.4",
+    "@types/react-virtualized-auto-sizer": "1.0.8",
     "@types/tinycolor2": "1.4.6",
     "babel-jest": "29.7.0",
     "esbuild": "0.20.2",
